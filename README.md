@@ -41,6 +41,6 @@ Put your code there.
 + Swagger for documentation
     * Usage Example: https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 
-##Useful links
+## Useful links
 + Swagger documentation
   * http://localhost:8080/swagger-ui.html
